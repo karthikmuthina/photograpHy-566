@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0; 
+}
+
+
+.index{
+    background-image:url("https://img.freepik.com/free-photo/back-view-kid-lavender-field_23-2149532298.jpg?w=900&t=st=1703924617~exp=1703925217~hmac=33921c0dc63922b2719c3f29c9ccc1a9843caab3db83ebad8d8339ea9c23e8b8") ;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.vss{
+    background-color: white;
+    text-align: center;
+}
